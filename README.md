@@ -4,4 +4,7 @@ This app takes a product given by the user as input. It retrieves the first resu
 
 
 
+## Screenshots
+
+![screenshot](https://user-images.githubusercontent.com/33060274/224989667-d3ed89f2-b0ea-476f-a3c1-776ea76aa866.jpg)
 
